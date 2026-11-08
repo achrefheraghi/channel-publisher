@@ -4,7 +4,7 @@ title: Privacy policy
 
 # Privacy policy
 
-Effective date: 6 November 2026
+Effective date: 8 November 2026
 
 This policy covers Channel Publisher (the app), a private tool that publishes videos to its developer's own accounts on YouTube, Facebook, Instagram and TikTok.
 
@@ -23,7 +23,7 @@ The app asks TikTok for the `video.upload` permission on the developer's own Tik
 ## How data is stored
 
 - The sign-in tokens (Google, Meta, TikTok) are saved only on the developer's own computer. Each is sent only to the service that issued it.
-- The app has no server and no database. It sends nothing to the developer or to any third party.
+- The app has no server and no database. It sends nothing to the developer or to any third party, other than the platform (Google, Meta or TikTok) that issued the access token, and the temporary public web address described above that Instagram uses to fetch a Reel.
 - The app does not collect, sell, share or transfer YouTube, Google, Meta or TikTok user data, and does not use it for advertising.
 
 ## Google API Services

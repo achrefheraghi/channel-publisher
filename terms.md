@@ -4,7 +4,7 @@ title: Terms of service
 
 # Terms of service
 
-Effective date: 6 November 2026
+Effective date: 8 November 2026
 
 Channel Publisher is a private tool used only by its developer to publish videos to his own accounts on YouTube, Facebook, Instagram and TikTok. It is not offered to anyone else, and no one else is authorised to use it.
 
