@@ -14,7 +14,7 @@ The app asks Google for one permission: **Manage your YouTube account** (`https:
 
 ## Facebook and Instagram (Meta)
 
-The app asks Meta for permission to publish videos and Reels to one Facebook Page and one Instagram professional account, both owned by the developer, and to read basic publishing status and limits for them. It does not read private messages, friends lists or any other person's data. To publish an Instagram Reel, the video file may be placed briefly at a temporary public web address so Instagram can fetch it; it is deleted once Instagram has finished.
+The app asks Meta for permission to publish videos and Reels to Facebook Pages and Instagram professional accounts owned by the developer, and to read basic publishing status and limits for them. It does not read private messages, friends lists or any other person's data. To publish an Instagram Reel, the video file may be placed briefly at a temporary public web address so Instagram can fetch it; it is deleted once Instagram has finished.
 
 ## TikTok
 
